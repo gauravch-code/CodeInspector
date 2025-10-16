@@ -1,3 +1,3 @@
 # CodeInspector
 
-hey this is a test! in new branch.
+hey this is a test for the bot.
